@@ -23,11 +23,6 @@ public class FileSystemStorageService implements StorageService
     private final Path rootLocation = Paths.get("/var/www/html/upload-dir");
 
 
-    /**
-     * 保存文件
-     *
-     * @param file 文件
-     */
     @Override
     public void store(MultipartFile file)
     {
