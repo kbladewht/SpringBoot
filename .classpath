@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SpringBoot-Framework/src/main/java"/>
+	<classpathentry kind="src" path="SpringBoot-Framework/src/test/java"/>
+	<classpathentry kind="src" path="SpringBootDemo/src/main/java"/>
+	<classpathentry kind="src" path="SpringBootDemo/src/test/java"/>
+	<classpathentry kind="src" path="SpringBootUploadAndDownload/src/main/java"/>
+	<classpathentry kind="lib" path="SpringBoot-Framework/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="SpringBootDemo/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
